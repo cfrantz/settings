@@ -2,6 +2,6 @@
 
 ## TODO
 
-clone/install Localtog/powerline
-copy files to the right place
-patch .bashrc
+* clone/install Localtog/powerline
+* copy files to the right place
+* patch .bashrc
